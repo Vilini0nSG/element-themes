@@ -2,10 +2,10 @@
   "name": "Catppuccin Frappe",
   "is_dark": true,
   "colors": {
-    "accent-color": "#babbf1",
-    "primary-color": "#babbf1",
+    "accent-color": "#242838",
+    "primary-color": "#242838",
     "warning-color": "#e78284",
-    "alert": "#faa81a",
+    "alert": "#242838",
     "sidebar-color": "#242838",
     "roomlist-background-color": "#292c3c",
     "roomlist-text-color": "#c6d0f5",
